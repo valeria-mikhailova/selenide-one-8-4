@@ -20,5 +20,4 @@ public class DragAndDrop {
         // проверить, что прямоугольник A теперь слева
         $("#column-a").shouldHave(cssValue("float", "left"));
     }
-
 }
